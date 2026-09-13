@@ -1,12 +1,14 @@
 # A/B Testing: Evaluating a Premium Campaign
 
-![A/B Testing project overview](assets/ab-testing-project-thumbnail.png)
+# A/B Testing: Evaluating a Premium Campaign
+
+![A/B Testing project overview](ab-testing-project-thumbnail.png)
 
 This educational case study evaluates whether a new Premium campaign variant performed better than the existing campaign in a supplied Spotify scenario. The analysis focuses on the Premium Subscription Rate and checks supporting metrics before recommending a broader rollout.
 
 > **Context:** This project uses an educational dataset and a Spotify campaign scenario. It was not conducted for Spotify. The campaign messaging, target audience, and two-week duration are scenario assumptions.
 
-[View the full analysis presentation](docs/ab-testing-analysis.pdf)
+[View the full analysis presentation](ab-testing-analysis.pdf)
 
 ## Decision Question
 
